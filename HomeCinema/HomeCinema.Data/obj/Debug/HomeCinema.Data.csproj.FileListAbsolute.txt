@@ -22,7 +22,7 @@ E:\HomeCinemaApp\HomeCinema\HomeCinema.Data\bin\Debug\HomeCinema.Entities.pdb
 E:\HomeCinemaApp\HomeCinema\HomeCinema.Data\bin\Debug\EntityFramework.xml
 E:\HomeCinemaApp\HomeCinema\HomeCinema.Data\bin\Debug\EntityFramework.SqlServer.xml
 E:\HomeCinemaApp\HomeCinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.csprojResolveAssemblyReference.cache
-E:\HomeCinemaApp\HomeCinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.dll
-E:\HomeCinemaApp\HomeCinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.pdb
 E:\HomeCinemaApp\HomeCinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.Migrations.initial_migration.resources
 E:\HomeCinemaApp\HomeCinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.csproj.GenerateResource.Cache
+E:\HomeCinemaApp\HomeCinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.dll
+E:\HomeCinemaApp\HomeCinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.pdb

@@ -13,7 +13,7 @@ namespace HomeCinema.Data.Migrations
         
         string IMigrationMetadata.Id
         {
-            get { return "201706020709232_initial_migration"; }
+            get { return "201706020811313_initial_migration"; }
         }
         
         string IMigrationMetadata.Source
