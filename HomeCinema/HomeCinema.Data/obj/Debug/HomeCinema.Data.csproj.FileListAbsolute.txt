@@ -11,3 +11,18 @@ C:\Buddhika - work\applications\HomeCinemaApp\HomeCinema\HomeCinema.Data\bin\Deb
 C:\Buddhika - work\applications\HomeCinemaApp\HomeCinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.csprojResolveAssemblyReference.cache
 C:\Buddhika - work\applications\HomeCinemaApp\HomeCinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.dll
 C:\Buddhika - work\applications\HomeCinemaApp\HomeCinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.pdb
+E:\HomeCinemaApp\HomeCinema\HomeCinema.Data\bin\Debug\HomeCinema.Data.dll.config
+E:\HomeCinemaApp\HomeCinema\HomeCinema.Data\bin\Debug\HomeCinema.Data.dll
+E:\HomeCinemaApp\HomeCinema\HomeCinema.Data\bin\Debug\HomeCinema.Data.pdb
+E:\HomeCinemaApp\HomeCinema\HomeCinema.Data\bin\Debug\EntityFramework.dll
+E:\HomeCinemaApp\HomeCinema\HomeCinema.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\HomeCinemaApp\HomeCinema\HomeCinema.Data\bin\Debug\HomeCinema.Entities.dll
+E:\HomeCinemaApp\HomeCinema\HomeCinema.Data\bin\Debug\MockData.dll
+E:\HomeCinemaApp\HomeCinema\HomeCinema.Data\bin\Debug\HomeCinema.Entities.pdb
+E:\HomeCinemaApp\HomeCinema\HomeCinema.Data\bin\Debug\EntityFramework.xml
+E:\HomeCinemaApp\HomeCinema\HomeCinema.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\HomeCinemaApp\HomeCinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.csprojResolveAssemblyReference.cache
+E:\HomeCinemaApp\HomeCinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.dll
+E:\HomeCinemaApp\HomeCinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.pdb
+E:\HomeCinemaApp\HomeCinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.Migrations.initial_migration.resources
+E:\HomeCinemaApp\HomeCinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.csproj.GenerateResource.Cache
