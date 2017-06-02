@@ -18,9 +18,9 @@ namespace HomeCinema.Entities
         public string Image { get; set; }
         public int GenreId { get; set; }
         public virtual Genre Genre { get; set; }
-        public string Deirector { get; set; }
+        public string Director { get; set; }
         public string Writer { get; set; }
-        public string producer { get; set; }
+        public string Producer { get; set; }
         public DateTime ReleaseDate { get; set; }
         public byte Rating { get; set; }
         public string TrailerURL { get; set; }

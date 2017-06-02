@@ -1,0 +1,13 @@
+C:\Buddhika - work\applications\HomeCinemaApp\HomeCinema\HomeCinema.Data\bin\Debug\HomeCinema.Data.dll.config
+C:\Buddhika - work\applications\HomeCinemaApp\HomeCinema\HomeCinema.Data\bin\Debug\HomeCinema.Data.dll
+C:\Buddhika - work\applications\HomeCinemaApp\HomeCinema\HomeCinema.Data\bin\Debug\HomeCinema.Data.pdb
+C:\Buddhika - work\applications\HomeCinemaApp\HomeCinema\HomeCinema.Data\bin\Debug\EntityFramework.dll
+C:\Buddhika - work\applications\HomeCinemaApp\HomeCinema\HomeCinema.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Buddhika - work\applications\HomeCinemaApp\HomeCinema\HomeCinema.Data\bin\Debug\HomeCinema.Entities.dll
+C:\Buddhika - work\applications\HomeCinemaApp\HomeCinema\HomeCinema.Data\bin\Debug\MockData.dll
+C:\Buddhika - work\applications\HomeCinemaApp\HomeCinema\HomeCinema.Data\bin\Debug\HomeCinema.Entities.pdb
+C:\Buddhika - work\applications\HomeCinemaApp\HomeCinema\HomeCinema.Data\bin\Debug\EntityFramework.xml
+C:\Buddhika - work\applications\HomeCinemaApp\HomeCinema\HomeCinema.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Buddhika - work\applications\HomeCinemaApp\HomeCinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.csprojResolveAssemblyReference.cache
+C:\Buddhika - work\applications\HomeCinemaApp\HomeCinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.dll
+C:\Buddhika - work\applications\HomeCinemaApp\HomeCinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.pdb

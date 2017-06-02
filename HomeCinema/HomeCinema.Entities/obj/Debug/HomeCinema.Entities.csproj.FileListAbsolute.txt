@@ -3,3 +3,7 @@ E:\HomeCinemaApp\HomeCinema\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.pd
 E:\HomeCinemaApp\HomeCinema\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.csprojResolveAssemblyReference.cache
 E:\HomeCinemaApp\HomeCinema\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.dll
 E:\HomeCinemaApp\HomeCinema\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.pdb
+C:\Buddhika - work\applications\HomeCinemaApp\HomeCinema\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.dll
+C:\Buddhika - work\applications\HomeCinemaApp\HomeCinema\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.pdb
+C:\Buddhika - work\applications\HomeCinemaApp\HomeCinema\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.dll
+C:\Buddhika - work\applications\HomeCinemaApp\HomeCinema\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.pdb
