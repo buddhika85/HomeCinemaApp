@@ -4,5 +4,6 @@ C:\Buddhika - work\applications\HomeCinemaApp\HomeCinema\HomeCinema.Entities\obj
 C:\Buddhika - work\applications\HomeCinemaApp\HomeCinema\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.pdb
 E:\HomeCinemaApp\HomeCinema\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.dll
 E:\HomeCinemaApp\HomeCinema\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.pdb
+E:\HomeCinemaApp\HomeCinema\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.csprojResolveAssemblyReference.cache
 E:\HomeCinemaApp\HomeCinema\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.dll
 E:\HomeCinemaApp\HomeCinema\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.pdb

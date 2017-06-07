@@ -64,6 +64,7 @@
     <Compile Include="Configurations\EntityConfigurations\UserConfiguration.cs" />
     <Compile Include="Configurations\EntityConfigurations\UserRoleConfiguration.cs" />
     <Compile Include="Configurations\HomeCinemaContext.cs" />
+    <Compile Include="Extensions\UserExtensions.cs" />
     <Compile Include="Infrastructure\DbFactory.cs" />
     <Compile Include="Infrastructure\Disposable.cs" />
     <Compile Include="Infrastructure\IDbFactory.cs" />
@@ -97,6 +98,7 @@
       <DependentUpon>201706020811313_initial_migration.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

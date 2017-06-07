@@ -1,6 +1,6 @@
 ﻿namespace HomeCinema.Data.Infrastructure
 {
-    interface IUnitOfWork
+    public interface IUnitOfWork
     {
         void Commit();
     }

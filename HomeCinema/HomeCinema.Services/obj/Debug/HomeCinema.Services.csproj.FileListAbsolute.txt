@@ -1,0 +1,12 @@
+E:\HomeCinemaApp\HomeCinema\HomeCinema.Services\bin\Debug\HomeCinema.Services.dll
+E:\HomeCinemaApp\HomeCinema\HomeCinema.Services\bin\Debug\HomeCinema.Services.pdb
+E:\HomeCinemaApp\HomeCinema\HomeCinema.Services\bin\Debug\HomeCinema.Data.dll
+E:\HomeCinemaApp\HomeCinema\HomeCinema.Services\bin\Debug\HomeCinema.Entities.dll
+E:\HomeCinemaApp\HomeCinema\HomeCinema.Services\bin\Debug\EntityFramework.dll
+E:\HomeCinemaApp\HomeCinema\HomeCinema.Services\bin\Debug\MockData.dll
+E:\HomeCinemaApp\HomeCinema\HomeCinema.Services\bin\Debug\HomeCinema.Data.pdb
+E:\HomeCinemaApp\HomeCinema\HomeCinema.Services\bin\Debug\HomeCinema.Entities.pdb
+E:\HomeCinemaApp\HomeCinema\HomeCinema.Services\bin\Debug\EntityFramework.xml
+E:\HomeCinemaApp\HomeCinema\HomeCinema.Services\obj\Debug\HomeCinema.Services.csprojResolveAssemblyReference.cache
+E:\HomeCinemaApp\HomeCinema\HomeCinema.Services\obj\Debug\HomeCinema.Services.dll
+E:\HomeCinemaApp\HomeCinema\HomeCinema.Services\obj\Debug\HomeCinema.Services.pdb

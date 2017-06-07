@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeCinema.Entities", "HomeCinema.Entities\HomeCinema.Entities.csproj", "{60E666C8-8E28-4FAA-A4CF-08EC6A021E7D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeCinema.Data", "HomeCinema.Data\HomeCinema.Data.csproj", "{A89590EB-5A6E-47D7-872A-52C210D029EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeCinema.Services", "HomeCinema.Services\HomeCinema.Services.csproj", "{B657058F-6AF0-4B70-BFB4-D42F8F8BF6C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A89590EB-5A6E-47D7-872A-52C210D029EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A89590EB-5A6E-47D7-872A-52C210D029EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A89590EB-5A6E-47D7-872A-52C210D029EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B657058F-6AF0-4B70-BFB4-D42F8F8BF6C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B657058F-6AF0-4B70-BFB4-D42F8F8BF6C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B657058F-6AF0-4B70-BFB4-D42F8F8BF6C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B657058F-6AF0-4B70-BFB4-D42F8F8BF6C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
