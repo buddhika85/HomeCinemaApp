@@ -1,34 +1,22 @@
 
-#Ignore thumbnails created by Windows
-Thumbs.db
-#Ignore files built by Visual Studio
-*.obj
-*.pdb
-*.dll
-*.exe
-*.pdb
-*.user
-*.aps
-*.pch
-*.vspscc
-*_i.c
-*_p.c
-*.ncb
-*.suo
-*.tlb
-*.tlh
-*.bak
-*.cache
-*.ilk
-*.log
-[Bb]in
-[Dd]ebug*/
-*.lib
-*.sbr
-obj/
-[Rr]elease*/
-_ReSharper*/
-[Tt]est[Rr]esult*
-.vs/
-#Nuget packages folder
-packages/
+HomeCinema/HomeCinema.Data/bin/Debug/HomeCinema.Data.pdb
+HomeCinema/HomeCinema.Data/bin/Debug/HomeCinema.Entities.dll
+HomeCinema/HomeCinema.Data/bin/Debug/HomeCinema.Entities.pdb
+HomeCinema/HomeCinema.Data/obj/Debug/HomeCinema.Data.csprojResolveAssemblyReference.cache
+HomeCinema/HomeCinema.Data/obj/Debug/HomeCinema.Data.dll
+HomeCinema/HomeCinema.Data/obj/Debug/HomeCinema.Data.pdb
+HomeCinema/HomeCinema.Entities/bin/Debug/HomeCinema.Entities.dll
+HomeCinema/HomeCinema.Entities/bin/Debug/HomeCinema.Entities.pdb
+HomeCinema/HomeCinema.Entities/obj/Debug/HomeCinema.Entities.csprojResolveAssemblyReference.cache
+HomeCinema/HomeCinema.Entities/obj/Debug/HomeCinema.Entities.dll
+HomeCinema/HomeCinema.Entities/obj/Debug/HomeCinema.Entities.pdb
+HomeCinema/HomeCinema.Services/bin/Debug/HomeCinema.Data.dll
+HomeCinema/HomeCinema.Services/bin/Debug/HomeCinema.Data.pdb
+HomeCinema/HomeCinema.Services/bin/Debug/HomeCinema.Entities.dll
+HomeCinema/HomeCinema.Services/bin/Debug/HomeCinema.Entities.pdb
+HomeCinema/HomeCinema.Services/bin/Debug/HomeCinema.Services.dll
+HomeCinema/HomeCinema.Services/bin/Debug/HomeCinema.Services.pdb
+HomeCinema/HomeCinema.Services/obj/Debug/HomeCinema.Services.csproj.FileListAbsolute.txt
+HomeCinema/HomeCinema.Services/obj/Debug/HomeCinema.Services.csprojResolveAssemblyReference.cache
+HomeCinema/HomeCinema.Services/obj/Debug/HomeCinema.Services.dll
+HomeCinema/HomeCinema.Services/obj/Debug/HomeCinema.Services.pdb
