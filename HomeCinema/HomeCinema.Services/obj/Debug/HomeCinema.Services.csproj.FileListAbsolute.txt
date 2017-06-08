@@ -10,3 +10,15 @@ E:\HomeCinemaApp\HomeCinema\HomeCinema.Services\bin\Debug\EntityFramework.xml
 E:\HomeCinemaApp\HomeCinema\HomeCinema.Services\obj\Debug\HomeCinema.Services.csprojResolveAssemblyReference.cache
 E:\HomeCinemaApp\HomeCinema\HomeCinema.Services\obj\Debug\HomeCinema.Services.dll
 E:\HomeCinemaApp\HomeCinema\HomeCinema.Services\obj\Debug\HomeCinema.Services.pdb
+C:\Buddhika - work\applications\HomeCinemaApp\HomeCinema\HomeCinema.Services\bin\Debug\HomeCinema.Services.dll
+C:\Buddhika - work\applications\HomeCinemaApp\HomeCinema\HomeCinema.Services\bin\Debug\HomeCinema.Services.pdb
+C:\Buddhika - work\applications\HomeCinemaApp\HomeCinema\HomeCinema.Services\bin\Debug\HomeCinema.Data.dll
+C:\Buddhika - work\applications\HomeCinemaApp\HomeCinema\HomeCinema.Services\bin\Debug\HomeCinema.Entities.dll
+C:\Buddhika - work\applications\HomeCinemaApp\HomeCinema\HomeCinema.Services\bin\Debug\EntityFramework.dll
+C:\Buddhika - work\applications\HomeCinemaApp\HomeCinema\HomeCinema.Services\bin\Debug\MockData.dll
+C:\Buddhika - work\applications\HomeCinemaApp\HomeCinema\HomeCinema.Services\bin\Debug\HomeCinema.Data.pdb
+C:\Buddhika - work\applications\HomeCinemaApp\HomeCinema\HomeCinema.Services\bin\Debug\HomeCinema.Entities.pdb
+C:\Buddhika - work\applications\HomeCinemaApp\HomeCinema\HomeCinema.Services\bin\Debug\EntityFramework.xml
+C:\Buddhika - work\applications\HomeCinemaApp\HomeCinema\HomeCinema.Services\obj\Debug\HomeCinema.Services.csprojResolveAssemblyReference.cache
+C:\Buddhika - work\applications\HomeCinemaApp\HomeCinema\HomeCinema.Services\obj\Debug\HomeCinema.Services.dll
+C:\Buddhika - work\applications\HomeCinemaApp\HomeCinema\HomeCinema.Services\obj\Debug\HomeCinema.Services.pdb
